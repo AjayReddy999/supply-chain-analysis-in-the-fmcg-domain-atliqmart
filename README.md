@@ -53,11 +53,3 @@ Customers like Lotus Mart, Coolblue, and Acclaimed stores have the highest order
 Despite the insights gained, there are no noticeable improvements in key metrics over the past few months. AtliQ Mart should establish a culture of continuous improvement, regularly reviewing performance metrics, identifying areas for enhancement, and implementing corrective actions to drive positive changes.
 
 Overall, AtliQ Mart should focus on enhancing operational efficiency, optimizing inventory management, and strengthening partnerships with suppliers to improve order fulfillment and customer satisfaction. By addressing these areas, AtliQ Mart can drive better performance and achieve its business objectives.
-
-# Maintainer
-**Chinmaya Sri Rama Seshu Pasupuleti**
-Data Engineer with over 4 years of experience specializing in enterprise data pipelines, ETL/ELT workflows, and analytical data platforms.
-
-- Email: pramaseshu@outlook.com
-- LinkedIn: https://www.linkedin.com/in/rama-seshu/
-- GitHub: https://github.com/Ramaseshu0
